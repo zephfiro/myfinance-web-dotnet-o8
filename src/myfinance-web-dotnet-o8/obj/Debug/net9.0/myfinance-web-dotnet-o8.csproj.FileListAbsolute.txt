@@ -90,3 +90,4 @@ E:\!workspace\myfinance-web-dotnet-o8\src\myfinance-web-dotnet-o8\obj\Debug\net9
 E:\!workspace\myfinance-web-dotnet-o8\src\myfinance-web-dotnet-o8\obj\Debug\net9.0\myfinance-web-dotnet-o8.pdb
 E:\!workspace\myfinance-web-dotnet-o8\src\myfinance-web-dotnet-o8\obj\Debug\net9.0\myfinance-web-dotnet-o8.genruntimeconfig.cache
 E:\!workspace\myfinance-web-dotnet-o8\src\myfinance-web-dotnet-o8\obj\Debug\net9.0\ref\myfinance-web-dotnet-o8.dll
+E:\!workspace\myfinance-web-dotnet-o8\src\myfinance-web-dotnet-o8\obj\Debug\net9.0\myfinance-web-dotnet-o8.sourcelink.json
