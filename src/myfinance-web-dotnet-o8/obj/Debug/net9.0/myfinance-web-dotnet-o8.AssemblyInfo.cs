@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("myfinance-web-dotnet-o8")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4604215f7c62157f33d7afd5af97e58ac3e8d3d7")]
 [assembly: System.Reflection.AssemblyProductAttribute("myfinance-web-dotnet-o8")]
 [assembly: System.Reflection.AssemblyTitleAttribute("myfinance-web-dotnet-o8")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
